@@ -4,14 +4,5 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
 # translate-demo
-翻译demo程序
+Translation demo program
