@@ -1,8 +1,10 @@
 ## 🌐 Translations
 
-[English](./translations/en/README.md)
+[日本語](./translations/ja/README.md)
 
 ---
+
+
 
 
 
